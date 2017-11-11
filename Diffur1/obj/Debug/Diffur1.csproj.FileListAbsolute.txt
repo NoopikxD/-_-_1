@@ -1,0 +1,9 @@
+D:\qwe.txt\Diffur1\Diffur1\bin\Debug\Diffur1.exe.config
+D:\qwe.txt\Diffur1\Diffur1\bin\Debug\Diffur1.exe
+D:\qwe.txt\Diffur1\Diffur1\bin\Debug\Diffur1.pdb
+D:\qwe.txt\Diffur1\Diffur1\obj\Debug\Diffur1.csprojResolveAssemblyReference.cache
+D:\qwe.txt\Diffur1\Diffur1\obj\Debug\Diffur1.Form1.resources
+D:\qwe.txt\Diffur1\Diffur1\obj\Debug\Diffur1.Properties.Resources.resources
+D:\qwe.txt\Diffur1\Diffur1\obj\Debug\Diffur1.csproj.GenerateResource.Cache
+D:\qwe.txt\Diffur1\Diffur1\obj\Debug\Diffur1.exe
+D:\qwe.txt\Diffur1\Diffur1\obj\Debug\Diffur1.pdb
